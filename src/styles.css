@@ -1,5 +1,10 @@
 html,
 body {
-  background-color: #1c1c1c;
-  color: white;
+	background-color: #1c1c1c;
+	color: white;
+}
+
+.navbar-brand > img {
+	width: 32px;
+	height: 32px;
 }
